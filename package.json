@@ -1,10 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Chukwuemeka David",
+	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "words" ,"freecodecamp"],
+	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
-		 "@freecodecamp/example":"1.2.13".
+		"package-name": "version",
+		"express": "4.14.0"
 	},
+	"license": "MIT",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
